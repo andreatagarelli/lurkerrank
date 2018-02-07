@@ -1,5 +1,7 @@
 # lurkerrank
 
+<strong>Copyright Andrea Tagarelli, DIMES Dept.,  University of Calabria, Italy</strong>
+<p>
 <strong>TERMS OF USAGE:</strong>
 
 The following papers are to be cited in any research product whose findings are based on the code here distributed:
