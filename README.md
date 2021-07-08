@@ -1,6 +1,6 @@
 # lurkerrank
 
-<strong>Copyright 2015-2018 Andrea Tagarelli, DIMES Dept.,  University of Calabria, Italy</strong>
+<strong>Copyright 2015-2021 Andrea Tagarelli, DIMES Dept.,  University of Calabria, Italy</strong>
 <p>
  
 <strong>LurkerRank is a Python software for identifying and ranking lurkers in a social graph. 
