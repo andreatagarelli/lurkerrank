@@ -18,4 +18,8 @@ Social Netw. Analys. Mining 4(1): 230, 2014.<br>
 <li>Andrea Tagarelli, Roberto Interdonato. <br>
 "Who's out there?": identifying and ranking lurkers in social networks. <br>
 In Proc. IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (ASONAM), pp. 215-222, 2013. 
+
+<li>Andrea Tagarelli, Roberto Interdonato. <br>
+Time-aware analysis and ranking of lurkers in social networks. <br>
+Social Netw. Analys. Mining 5(1): 46:1-46:23 (2015).<br>
 </ul>
