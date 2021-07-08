@@ -32,7 +32,7 @@ CONV_THRESHOLD = 1e-8
 
 """
 Parses an input digraph file, in NCOL format <source target weight>. 
-The edge meaning is that "source" node is influenced by (e.g., follows, likes) "target" node.
+The edge meaning is that "target" node is influenced by (e.g., follows, likes) "source" node.
 If "weight" is not specified, edge weights are assumed to be 1.
 :param file_in: the name of the file which the data are to be read from.
 :param need_mapping: a logical value indicating whether nodes are numbered using a non-progressive order.
